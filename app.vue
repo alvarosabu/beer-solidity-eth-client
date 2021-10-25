@@ -36,7 +36,7 @@
       <a
         href="https://v3.nuxtjs.org/"
         class="mx-2 flex items-center text-sm text-secondary-400"
-        ><img src="nuxt-logo.svg" class="w-4 h-4 mr-2" /> Nuxt.js</a
+        ><img src="/nuxt-logo.svg" class="w-4 h-4 mr-2" /> Nuxt.js</a
       >
     </footer>
   </div>
