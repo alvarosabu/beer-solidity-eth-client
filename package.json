@@ -7,9 +7,12 @@
   },
   "devDependencies": {
     "@asigloo/prettier-config": "^0.2.0",
-    "@iconify-json/carbon": "^1.0.7",
+    "@iconify/json": "^1.1.421",
+    "@vueuse/core": "^6.7.4",
+    "ethers": "^5.5.1",
     "nuxt-windicss": "^2.0.5",
     "nuxt3": "latest",
-    "unplugin-icons": "^0.12.17"
+    "unplugin-icons": "^0.12.17",
+    "velocity-animate": "^1.5.2"
   }
 }
